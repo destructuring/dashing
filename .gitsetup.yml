@@ -1,0 +1,6 @@
+---
+remotes:
+  vendor: https://github.com/Shopify/dashing
+  primary: git@github.com:destructuring/dashing
+  secondary: git@bitbucket.org:destructuring/dashing
+  rb: https://github.com/destructuring/rb-helper
